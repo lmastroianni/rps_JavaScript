@@ -1,0 +1,10 @@
+body {
+	width:800px;
+	margin: 0 auto;
+	background-color: black;
+	color: white;
+}
+
+header { text-align: center; }
+
+header, .choice {margin-bottom: }
